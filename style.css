@@ -1,0 +1,27 @@
+body {
+  font-family: 'sans-serif';
+  font-size: '1rem';
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--color-white);
+  margin: 0;
+  background: #7373bb;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+#name-label {
+  color: white;
+}
+
+#description {
+  color: white;
+}
+
+p {
+  color: white;
+}
