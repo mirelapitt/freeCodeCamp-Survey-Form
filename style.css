@@ -25,3 +25,21 @@ body {
 p {
   color: white;
 }
+
+body {
+  overflow: auto;
+}
+
+html {
+  overflow-y: auto;
+}
+
+input,
+button,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
